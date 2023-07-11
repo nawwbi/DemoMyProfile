@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo My Profile</string>
+    <string name="textView">Name</string>
+    <string name="textView2">GPA</string>
+    <string name="editTextText">Enter name</string>
+    <string name="editTextText2">Enter GPA</string>
+</resources>
